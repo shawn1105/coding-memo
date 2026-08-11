@@ -44,4 +44,8 @@ CKEditor LTS版本以前有CPE、CVE弱點問題，更改使用 Tiptap。
 匯出 SBOM 檔案：Syft
 比對弱點資料：Trivy、Grype、OSV-Scanner
 自動化流程執行：.bat
+有3種結果:
+1. CMD上顯示
+2. Html 網頁報表
+3. Json格式檔案
 ```
