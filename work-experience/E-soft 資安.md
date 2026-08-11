@@ -1,4 +1,4 @@
-- 安裝工具 (C# form)
+- 安裝工具 Install Tool (C# form)
 ```
 1. DB(確認DB連線正常、更新產品版本資訊等)
 2. Client安裝(包含撰寫帶參數給bat執行安裝後續檔案或新增windows服務等)
@@ -6,7 +6,7 @@
 4. 安裝流程頁面設計
 ```
 ---
-- .msi安裝工具 (WiX v4)
+- 安裝工具 .msi Install Tool (WiX v4)
 ```
 1. 安裝頁面設計
 2. 安裝流程設計
@@ -14,7 +14,7 @@
 4. 安裝系統服務
 ```
 ---
-- 產品平台 (C# .framework、JavaScript、Html、CSS)
+- 產品平台 Product Platform (C# .framework、JavaScript、Html、CSS)
 ```
 1. C# .framework
 2. JavaScript
