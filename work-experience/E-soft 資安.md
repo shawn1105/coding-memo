@@ -26,7 +26,7 @@ View處理前端頁面呈現
 Controller處理已設計的Request API並接到對應的Model方法
 ViewModel儲存前端頁面需要的變數類別(TB、TVCBL等)。
 
-產品我理解的流程是，tracker(或Server)會去收各設備的資訊(IP、MAC、ChassisType、有哪些軟體、登入資訊等)，
+tracker(或Server)會去收各設備的資訊(IP、MAC、ChassisType、有哪些軟體、登入資訊等)，
 收回伺服器寫進DB，可以透過產品網站提供的很多報表進行管理，甚至也可以透過ADServer做到管理等事情。
 ```
 ---
